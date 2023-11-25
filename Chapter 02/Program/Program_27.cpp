@@ -12,3 +12,4 @@ int main()
     double hours;     // Holds the hours worked
     int employNumber; // Holds the employee number
     //(The remainder of this program is left out.)
+}
